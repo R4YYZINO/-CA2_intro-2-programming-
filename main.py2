@@ -1,0 +1,74 @@
+#Question 1
+answer=int(input("what is 5+3? "))
+if answer== 5+3:
+    print("correct")    
+else:
+        print("Wrong! The answer is",  5+3) 
+
+#Question 2
+
+answer=int(input("What is 10*9? "))
+if answer== 10*9:
+    print("correct")
+else:
+    print("Wrong! The answer is", 10*9)
+
+#Question 3 
+
+answer=int(input("what is 23-2 "))
+if answer==23-2:
+    print("correct")
+else:
+    print("Wrong! The answer is", 23-2)
+    
+#Question 4
+
+answer=int(input("what is 24/6? "))
+if answer==24/6:
+    print("Corret!")
+else:
+    print("Wrong! The answer is",24/6)
+
+#Question 5
+
+answer=int(input("What is 10**10? "))
+if answer==10**10:
+    print("Correct")
+else:
+    print("Wrong! The answer is", 10**10)
+
+#Question 6
+
+answer=int(input("What is 90-20?" ))
+if answer==90-20:
+    print("Correct!")
+else:
+    print("Wrong! The answer is", 90-20)
+    
+#Question 7
+answer=int(input("What is 10/10?" ))
+if answer==10/10:
+    print("Correct!")
+else:
+    print("Wrong! The answer is", 10-10)
+
+#Question 8 
+answer=int(input("What is 80*2?" ))
+if answer==80*2:
+    print("Correct!")
+else:
+    print("Wrong! The answer is" , 80*2)
+    
+#Question 9
+answer=int(input("What is 20+230?" ))
+if answer==20+230:
+    print("Correct!")
+else:
+    print("Wrong! The answer is" , 20+230)
+
+#Question 10 
+answer=int(input("What is 30*90?" ))
+if answer==30*90:
+    print("Correct!")
+else:
+    print("Wrong! The answer is" , 30*90)
